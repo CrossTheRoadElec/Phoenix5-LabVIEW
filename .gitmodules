@@ -1,9 +1,0 @@
-[submodule "Phoenix-LV-CANifier"]
-	path = Phoenix-LV-CANifier
-	url = https://github.com/CrossTheRoadElec/Phoenix-LV-CANifier.git
-[submodule "Phoenix-LV-TalonSRX"]
-	path = Phoenix-LV-TalonSRX
-	url = https://github.com/CrossTheRoadElec/Phoenix-LV-TalonSRX.git
-[submodule "Phoenix-LV-PigeonIMU"]
-	path = Phoenix-LV-PigeonIMU
-	url = https://github.com/CrossTheRoadElec/Phoenix-LV-PigeonIMU.git
